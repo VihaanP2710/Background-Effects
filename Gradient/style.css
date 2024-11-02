@@ -1,0 +1,12 @@
+#grad1 {
+    height: 400px;
+    background-image: linear-gradient(to top right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+div {
+    text-align: center;
+    margin: auto;
+    color: #888888;
+    font-size: 40px;
+    font-weight: bold;
+}
